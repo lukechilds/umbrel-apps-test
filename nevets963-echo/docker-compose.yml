@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: nevets963-echo_server_1
+      APP_HOST: lukechilds-echo_server_1
       APP_PORT: 8080
   
   server:
